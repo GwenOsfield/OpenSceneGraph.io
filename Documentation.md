@@ -1,4 +1,4 @@
-Getting Started
+#Getting Started
 
 Follows is a quick step by step guide to helping new OpenSceneGraph users get up to speed on how to use the software in their own application development work.
 
@@ -34,7 +34,7 @@ Tutorials - programming tutorials/howtos.
 Tips And Tricks - quick snippets of informtation that can help you along
 Knowledge Base - Useful background knowledge
 
-Books and Guides
+#Books and Guides
 
 links - quick start guide
 - beginners guide
@@ -49,12 +49,12 @@ The user guide section provides details to users on how to use various applicati
 Programming Guides 
 On line programming guides on the concepts and usage of OpenSceneGraph.
 
-FAQ's
+#FAQ
 Here is a list of Frequently Asked Questions.
 
 More FAQs about OSG may be found at 3drealtimesimulation.
 
-General
+##General
 I have no idea what OpenSceneGraph is, can you give me a short description?
 It is a 3D graphics library for C++ programmers. A SceneGraph library allows you to represent objects in a scene with a graph data structure which allows you to group related objects that share some properties together so you can specify common properties for the whole group in one place. OpenSceneGraph can then be used to automatically manage things like the level of detail necessary to draw the scene faithfully but without unnecessary detail which slows down the graphics hardware drawing the scene.
 
@@ -74,7 +74,7 @@ As the OSG is written in C++ you'll need to be able to program in that language.
 
 One way to look at the OSG is to treat it as an object-oriented wrapper around OpenGL. This is actually a far too simplistic view, as the OSG does a lot more than just issue OpenGL commands for you. However, it does indicate the need to have to knowledge of how OpenGL works in order to use the OpenSceneGraph in a sensible way. Anything you therefore know about OpenGL will be of value when using the OSG. A lot of questions from people just starting out with OpenSceneGraph are actually questions about the basics of OpenGL.
 
-Other topics that are of interest to newcomers to OSG are:
+##Other topics that are of interest to newcomers to OSG are:
 
 Memory management through reference counting. See the relevant question below, under "Development General".
 The use of design patterns, such as Visitor and Observer.
@@ -92,26 +92,14 @@ OpenSG has better support for performing multi-threaded scene graph operations, 
 OpenSG has better support for clustered rendering, although building your own support for OpenSceneGraph isn't terribly difficult
 The OpenSG website also provides a comparison between the two: http://opensg.vrsource.org/trac/wiki/OSGComparison
 
-Documentation
-Are there any books available about OSG?
-Yes, see http://www.osgbooks.com.
-
-The books are constantly under revision to keep up with changes in OSG. Purchasing the books helps fund this effort. More OSG books, not just revisions, are planned for the future.
-
-Are there tutorials available?
+#Documentation
+Are there tutorials available? link
 Yes, see here.
 
 Where is the reference manual for the .osg file format?
 There is no documentation (yet) for the scene description language. The OSG source code is the definite reference on the format (UseTheSourceLuke!), specifically the files under the src/osgPlugins/osg directory in the source distribution.
 
 For anyone with knowledge of OpenGL and the OSG classes the .osg format should be fairly understandable, though.
-
-Website
-How can I edit a website page?
-This website requires a login (See Login). Note that some pages can only be edited by the administrator. This includes the main page, project news and all pages in the Downloads section.
-
-How can I add a new website-page?
-One can add a new page by first creating a new article. This can be done in the submit article menu key. You should follow the Author guidelines.
 
 Building/Installation
 Are there binary distributions available?
