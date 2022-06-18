@@ -2,7 +2,7 @@
 
 [About: About, Liscencing](About.md)
 
-[Documenation: Getting Strted, Books + Guides, FAQ](Documenation.md)
+[Documenation: Getting Started, Books + Guides, FAQ](Documentation.md)
 
 [Downloads: Stable Releases, Code Repositories, Dependencies](Downloads.md)
 
