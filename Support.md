@@ -1,4 +1,4 @@
-Forum
+# Forum
 
 Forum URL:The OpenSceneGraph Forum
 
@@ -28,11 +28,11 @@ Don't type in all CAPS. It's perceived as YELLING. However, don't write with onl
 You have to post at least 2 messages, before you can post URLs or create signatures.
 Due to spamming we have to prevent new users of being able to post any URLs or create signatures. User is automatically allowed to post URLs in their messages as soon as he/she has posted at least two posts.
 
-Professional Support
+# Professional Support
 
 This page lists available contractors and companies that provides OpenSceneGraph related services such as contracting, bespoke development, support and training. The contractors are listed in order of how actively they contribute to OpenSceneGraph development so you'll know the ones most likely to have a wealth of experience.
 
-Robert Osfield- link
+## Robert Osfield- link
 Project lead and author of the bulk of the core OpenSceneGraph libraries.
 
 Guardian of the source - the main gate keeper on reviewing and integrating changes to the OpenceneGraph github repository.
@@ -45,8 +45,8 @@ contact: robert@openscenegraph.com
 portfolio: OpenSceneGraph, VirtualPlanetBuilder and Present3D
 location: Perthshire, Scotland, UK.
 
-Regular Contrubutors
-CRIS HANSON
+## Regular Contrubutors
+### CRIS HANSON
 OSG mercenary for hire. Custom software development, consulting services, GIS, landscape and terrain (VirtualPlanetBuilder), remote sensing, image processing.
 
 contact: xenon@…
@@ -57,7 +57,7 @@ portfolio: Personal Profile; 3D Nature's OSG-based NatureView
 location: Colorado, US
 specialties: Monthly consulting/support retainer package, $800USD/mo. Pre-compiled Windows Binaries download service.
  
-Tim Moore
+### Tim Moore
 
 Custom software development and consulting. Real time simulation. Database design.
 
