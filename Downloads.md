@@ -1,4 +1,5 @@
-Stable Releases
+# Stable Releases
+
 Our stable releases are the official release of the OpenSceneGraph to be used by new users and developer releasing final applications based that use the OpenSceneGraph.  We make major stable releases once to twice a year, such as 3.0, and minor stable releases to the stable release as necessary such as the 3.0.1 which fixed bugs that came to light after the first stable release in the series.  The versioning for stable release is major.minor.patch where the minor release is even number signifying that it's stable release.
 
 Link OpenSceneGraph-3.6.5 release download
@@ -8,7 +9,7 @@ git clone --branch OpenSceneGraph-3.6.5 https://github.com/openscenegraph/OpenSc
 Binaries :
 Windows Binaries provided by OBJEXX Engineering
 
-Code Repositories
+#Code Repositories
 OpenSceneGraph Github Repository:
 http://github.com/openscenegraph/osg
 
@@ -108,12 +109,12 @@ When updating your repository with the upstream's modifications it is likely tha
 7. SUBMITTING YOUR CONTRIBUTION
 See submissions page
 
-Dependecies
-Dependencies
+# Dependencies
  Print  EmailCategory: Third Party Published: 07 May 2012 Written by Jordi Torres Hits: 175851
 The OpenSceneGraph has range of dependencies, listed at the bottom of this page, most of which are optional and only required if you want to load a specific type of data. The OpenSceneGraph CMake based build system can automatically detect what dependencies you have installed and enable/disable the build of various modules according to what is available. Under Windows and Debian linux pre built binary packages available, using these can make your life a little easier.
 
-Windows prebuilt dependency packages
+## Windows prebuilt dependency packages
+
 VisualStudio 2017
 The following two packages are compiled with VisualStudio 2017 RTM (VC14) for 64bit only (v141 platform toolset). If you need 32bit (x86), please use this package. Please ensure you have the correct Visual Studio version installed. You can use the ENV variable OSG_3RDPARTY_DIR to auto configure CMake. Package details, content list and sources are available here
 Small package for 64 bit https://download.osgvisual.org/3rdParty_VS2017_v141_x64_V11_small.7z - Last Update: V11 on 2017/03/22
