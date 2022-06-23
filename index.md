@@ -1,7 +1,3 @@
----
-layout: header
-title: Home
----
 
 
 # The Open Sence Graph Project Website
