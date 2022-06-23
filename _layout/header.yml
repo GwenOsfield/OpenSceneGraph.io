@@ -1,0 +1,16 @@
+#navigation bar for header
+
+- title:About
+url: /About/
+
+- title:Community
+url: /Community/
+
+- title:Documenation 
+url: /Documenation/
+
+- title:Gallery
+url: /Gallery/
+
+- title:Support
+url: /Support/
