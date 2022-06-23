@@ -1,5 +1,8 @@
 #navigation bar for header
 
+- title:Home
+url: /index/
+
 - title:About
 url: /About/
 
