@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Home
+---
 
 # The Open Sence Graph Project Website
 
