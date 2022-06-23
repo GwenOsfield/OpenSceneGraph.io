@@ -1,5 +1,5 @@
 ---
-layout: header
+layout: page
 title: Home
 ---
 
