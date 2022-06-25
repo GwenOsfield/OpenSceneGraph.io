@@ -1,3 +1,7 @@
+---
+layout: header
+title: Support
+---
 # Forum
 
 Forum URL:The OpenSceneGraph Forum
