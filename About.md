@@ -1,3 +1,8 @@
+
+---
+layout: header
+title: About
+---
 # About
 
 ## Usage and Markets
