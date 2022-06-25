@@ -1,1 +1,19 @@
 theme: jekyll-theme-slate
+
+- title:Home
+url: https:/gwenosfield.github.io/OpenSceneGraph.io/Home.html
+
+- title:About
+url: https://gwenosfield.github.io/OpenSceneGraph.io/Aboot.html
+
+- title:Community
+url:https://gwenosfield.github.io/OpenSceneGraph.io/Community.html
+
+- title:Documenation 
+url: https://gwenosfield.github.io/OpenSceneGraph.io/Documenation.html
+
+- title:Gallery
+url: https://gwenosfield.github.io/OpenSceneGraph.io/Gallery.html
+
+- title:Support
+url: https://gwenosfield.github.io/OpenSceneGraph.io/Support.html
