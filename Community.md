@@ -1,6 +1,9 @@
+---
+layout: header
+title: Community
+---
 # External Projects
 
-all links
 osgBullet: A toolkit for apps that use OSG and Bullet physics.
 osgCairo: OSG integration with the Cairo API.
 osgEarth: An Earth viewer featuring on-demand data paging.
