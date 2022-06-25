@@ -1,3 +1,7 @@
+---
+layout: header
+title: Community
+---
 # Stable Releases
 
 Our stable releases are the official release of the OpenSceneGraph to be used by new users and developer releasing final applications based that use the OpenSceneGraph.  We make major stable releases once to twice a year, such as 3.0, and minor stable releases to the stable release as necessary such as the 3.0.1 which fixed bugs that came to light after the first stable release in the series.  The versioning for stable release is major.minor.patch where the minor release is even number signifying that it's stable release.
