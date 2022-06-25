@@ -1,6 +1,6 @@
 ---
 layout: header
-title: Community
+title: Downloads
 ---
 # Stable Releases
 
