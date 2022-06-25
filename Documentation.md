@@ -1,3 +1,7 @@
+---
+layout: header
+title: Documentation
+---
 # Getting Started
 
 Follows is a quick step by step guide to helping new OpenSceneGraph users get up to speed on how to use the software in their own application development work.
