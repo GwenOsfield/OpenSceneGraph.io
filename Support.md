@@ -2,9 +2,6 @@
 layout: header
 title: Support
 ---
-
-<!doctype html>
-<html>
  
 # Forum
 
@@ -75,6 +72,3 @@ hourly rate:
 availability: ask
 portfolio: major contributor to http://www.flightgear.org
 location: Bordeaux, France
-
-</html>
- 
