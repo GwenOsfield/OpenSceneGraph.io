@@ -1,5 +1,5 @@
 ---
-layout: header
+layout: _config
 title: Community
 ---
 # External Projects
