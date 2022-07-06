@@ -1,6 +1,6 @@
 
 ---
-layout: header
+layout: _config
 title: About
 ---
 # About
