@@ -6,7 +6,7 @@ title: Support
 
 Forum URL:The OpenSceneGraph Forum
 
-Guidelines
+ ## Guidelines
 This forum is a gateway to the OpenSceneGraph mailing list, hence for the messages posted on the forum the same etiquette rules applies as for any other email message. Following is a small overview how to be a good forum/mailing list user.
 
 Don't use cryptic names in your profile.
